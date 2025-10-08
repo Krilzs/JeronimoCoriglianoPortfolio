@@ -95,6 +95,7 @@ function HeroSection() {
           width={{ lg: "45rem", md: "100%", sm: "100%" }}
           textStyle={{ lg: "3xl", md: "2xl", sm: "2xl" }}
           color={"gray.300"}
+          fontSize={"xl"}
           mt={2} // Margen superior para separarlo del título
         >
           Desarrollador Full-Stack
@@ -106,10 +107,11 @@ function HeroSection() {
           color={"gray.300"}
           width={{ lg: "45rem", md: "100%", sm: "100%" }}
           mt={4} // Margen superior para separarlo del subtítulo
+          lineHeight={"relaxed"}
+          fontSize={"md"}
         >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-          ipsum deleniti dolore quo sequi blanditiis, earum voluptatem
-          laudantium error adipisci!
+          Me apasiona transformar ideas en código, y el código en soluciones
+          reales.
         </Text>
       </Box>
 
