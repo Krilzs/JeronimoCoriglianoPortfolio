@@ -76,7 +76,7 @@ export const projects = [
     type: "App de Gimnasio",
     name: "Gainz App",
     description:
-      "Aplicación para gestionar reservas de turnos, con calendario y notificaciones.",
+      "Aplicacion web para gestionar ,seguir, modificar y anotar rutinas de entrenamiento. ",
     images: [
       "https://res.cloudinary.com/dnf9ulalk/image/upload/v1759422605/gainz_fsfbsl.jpg",
       "https://res.cloudinary.com/dnf9ulalk/image/upload/v1759422599/gainz3_kkt3n1.png",
